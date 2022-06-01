@@ -1,2 +1,2 @@
 
-alert("JS is connected");
+window.alert("JS is connected");
